@@ -7,3 +7,6 @@
 - instruction used from DDL category: create database, create table, primary key, foreign key, alter table
 - instruction used from DML category: insert into tables
 - instruction used from DQL category: select (from, where, between, and, on)
+
+## Link to project
+[SQL-glob](https://github.com/RobertFurtuna10/TMTA12/blob/main/TES-47.pdf)
