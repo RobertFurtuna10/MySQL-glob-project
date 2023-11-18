@@ -9,4 +9,4 @@
 - instruction used from DQL category: select (from, where, between, and, on)
 
 ## Link to project
-[SQL-glob](https://github.com/RobertFurtuna10/TMTA12/blob/main/TES-47.pdf)
+[SQL-glob](https://github.com/RobertFurtuna10/MySQL-glob-project/blob/main/proiect%20IT%20factory%20-%20glob.sql)
