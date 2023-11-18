@@ -1,5 +1,6 @@
 # MySQL-glob-project
 
+
 ## Introduction
 - In this project I created a database named globe which includes several continents, countries, cities and people from all over the world to run different queries and instructions.
 - I wanted the database to have 4 tables with the following names: tara, orase, limba, persoane
